@@ -1,0 +1,113 @@
+#postoutline{
+    /* position: relative; */
+    display:inline-block;
+    margin-top: 200px;
+margin-left: 600px;
+width: 800px;
+height: 700px;
+background: #FFFFFF 0% 0% no-repeat padding-box;
+border: 1px solid black;
+border-radius: 10px;
+opacity: 1;
+}
+#postname{
+    /* position:absolute; */
+    display:block;
+    margin-top: 25px;
+margin-left: 20px;
+width: 58px;
+height: 31px;
+text-align: left;
+font: normal normal bold 28px/32px Helvetica;
+letter-spacing: 0px;
+color: #000000;
+opacity: 1;
+}
+#postloc{
+    /* position: absolute; */
+    display: inline-block;
+    margin-top: 5px;
+margin-left: 20px;
+width: 123px;
+height: 29px;
+/* UI Properties */
+text-align: left;
+font: normal normal normal 24px/29px Verdana;
+letter-spacing: 0px;
+color: #707070;
+opacity: 1;
+
+}
+#moreicon{
+    top: 246px;
+margin-left: 600px;
+width: 32px;
+height: 8px;
+opacity: 1;
+}
+#postimage{
+    margin-top: 20px;
+left: 600px;
+width: 100%;
+height: 400px;
+/* UI Properties */
+background: transparent url('./icon@2x.jpg') 0% 0% no-repeat padding-box;
+border: 1px solid #707070;
+opacity: 1;
+}
+#heart{
+    margin-top: 15px;
+/* left: 632px; */
+margin-left:20px;
+width: 32px;
+height: 32px;
+background: transparent url('./heart@2x.jpg') 0% 0% no-repeat padding-box;
+opacity: 1;
+}
+#share{
+
+    margin-top: 15px;
+    margin-left: 25px;
+left: 696px;
+width: 32px;
+height: 32px;
+background: transparent url('./share@2x.jpg') 0% 0% no-repeat padding-box;
+opacity: 1;
+}
+#date{
+    /* display:flex; */
+    margin-top: 15px;
+    margin-left:63%;
+left: 1248px;
+width: 124px;
+height: 24px;
+text-align: left;
+font: normal normal normal 20px/24px Verdana;
+letter-spacing: 0px;
+color: #000000;
+opacity: 1;
+}
+#likes{
+    margin-top: 15px;
+margin-left: 25px;
+width: 77px;
+height: 24px;
+text-align: left;
+font: normal normal normal 20px/24px Verdana;
+letter-spacing: 0px;
+color: #707070;
+opacity: 1;
+
+}
+#desc{
+
+    margin-top: 15px;
+margin-left: 25px;
+width: 450px;
+height: 31px;
+text-align: left;
+font: normal normal bold 28px/32px Helvetica;
+letter-spacing: 0px;
+color: #000000;
+opacity: 1;
+}
